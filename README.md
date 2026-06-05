@@ -637,5 +637,6 @@ const { data } = trpc.items.getByIds.useQuery({ ids });
 
 **Rule:** If you put placeholder components for App.tsx routes, you MUST replace them with actual components after your implementation.
 
-
-**Access Link:** https://instantqr-f9mqj6lp.manus.space/
+```tsx
+**Access Link:** https://instantqr-f9mqj6lp.manus.space
+```
